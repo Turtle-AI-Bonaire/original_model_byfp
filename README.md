@@ -157,7 +157,9 @@ This modular pipeline allows the Tag a Turtle team to:
 
 ## 📚 Sources & Credits
 🧠 Model creators: FruitPunch AI
+
 🐢 Stakeholder: Sea Turtle Conservation Bonaire
+
 🧰 Core Tools:
 
 - YOLOv8
@@ -166,5 +168,10 @@ This modular pipeline allows the Tag a Turtle team to:
 
 🤝 Adapted & modularized by: Tag a Turtle team. 
 For questions or contributions, feel free to open an issue or pull request.
+
+**Source links:**
+1. [Ultralytics documentation](https://docs.ultralytics.com/quickstart/)
+2. [Tracking Turtles by FruitPunch](https://www.fruitpunch.ai/blog/tracking-turtles-how-ai-helps-conservationists-to-re-identify-sea-turtles)
+3. [LightGlue repo](https://github.com/cvg/LightGlue)
 
 
