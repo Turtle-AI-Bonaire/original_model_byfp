@@ -1,9 +1,10 @@
 torch
+torchvision
+tensorflow>=2.12.0
 numpy
 pandas
-yolov8
 ultralytics
-sam
+segment-anything
 lightglue
-glob
 matplotlib
+opencv-python
