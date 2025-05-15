@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+yolov8
+ultralytics
+sam
+lightglue
+glob
+matplotlib
